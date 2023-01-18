@@ -15,3 +15,4 @@ The output is a single figure with three subplots comparing the position of the 
 This project was my introduction to state estimation algorithms, and it opened a can of worms that I am excited to delve deeper into.
 
 <img width="1342" alt="Screenshot 2023-01-17 at 11 37 23 PM" src="https://user-images.githubusercontent.com/122119822/213111532-5f9e3364-8f6b-47d2-88bf-9681e1461ef1.png">
+<img width="1062" alt="Screenshot 2023-01-17 at 11 38 40 PM" src="https://user-images.githubusercontent.com/122119822/213111891-1e7d944b-3713-45a6-91f8-64cf0d4b5374.png">
